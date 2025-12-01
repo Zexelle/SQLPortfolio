@@ -32,4 +32,11 @@ The goal is to demonstrate core SQL knowledge and provide a place to track my pr
 
 - Query optimization basics
 
+## 🚀 How to Use This Project
+
+- Open the Excel file
+
+- Navigate through each tab (cleaned data, PivotTables, charts)
+
+- Review visuals to understand trends and breakdown patterns
 
